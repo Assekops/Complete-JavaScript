@@ -16,7 +16,7 @@ console.log(country);
 console.log(continent);
 console.log(population);
 */
-
+/*
 let javaScriptIsFun = true;
 console.log(javaScriptIsFun);
 
@@ -36,3 +36,13 @@ console.log(typeof year);
 year = 2023;
 console.log(typeof year);
 console.log(typeof null);
+*/
+
+let age = 30;
+age = 31;
+
+// const birthYear = 1991;
+// birthYear = 1992;
+
+const job = 'joBTitle';
+console.log(job);
